@@ -21,6 +21,16 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ma1688/ma1688/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ma1688/count.svg?"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ma1688/ma1688/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ma1688/ma1688/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ma1688/ma1688/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
