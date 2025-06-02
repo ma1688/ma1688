@@ -14,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ma1688/ma1688/output/snake.svg" alt="Snake animation" />
 
 ###
