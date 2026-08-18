@@ -1,23 +1,20 @@
 <div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="Go" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
-
-# ma1688
-
-**港股数据 · AI Agent · 系统工具**
-
-独立开发。做港股公告分析、持股数据与本地化工具，常用 Python、Rust、Go 和 TypeScript。
-
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="36" alt="Go" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+    &nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
+  </p>
+  <h1>ma1688</h1>
+  <p><strong>港股数据 · AI Agent · 系统工具</strong></p>
+  <p>独立开发。做港股公告分析、持股数据与本地化工具，常用 Python、Rust、Go 和 TypeScript。</p>
 </div>
 
 ### 项目
@@ -32,8 +29,8 @@
 ### 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ma1688&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=zh-cn&hide_border=true&rank_icon=github" height="160" alt="GitHub 统计" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ma1688&locale=zh-cn&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="160" alt="常用语言" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ma1688&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github&cache_seconds=86400" height="160" alt="GitHub 统计" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ma1688&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&cache_seconds=86400" height="160" alt="常用语言" />
 </div>
 
 ### 贡献
