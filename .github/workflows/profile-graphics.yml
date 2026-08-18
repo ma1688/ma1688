@@ -18,34 +18,14 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/snake.svg?palette=github-dark
-
-      # Pacman writes to the same dist/ directory; keep snake files if it replaces the folder.
-      - name: Stash snake SVGs
-        run: |
-          mkdir -p "${RUNNER_TEMP}/profile-graphics"
-          cp dist/*.svg "${RUNNER_TEMP}/profile-graphics/"
-
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@v5.3.2
         with:
           github_user_name: ${{ github.repository_owner }}
-
-      - name: Merge generated SVGs
-        run: |
-          mkdir -p dist
-          cp "${RUNNER_TEMP}/profile-graphics/"*.svg dist/
 
       - name: Publish graphics to output branch
         uses: crazy-max/ghaction-github-pages@v4
